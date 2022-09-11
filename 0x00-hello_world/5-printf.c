@@ -1,7 +1,10 @@
 #include <stdio.h>
 /**
- * main function is 
- * fhsuf 
+ * main - print the value in the put function
+ * 
+ * decription: using the main function
+ * this program prints with proper grammar, but the outcome is a piece of art
+ * return: 0
  */
 int main(void)
 {
