@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
  * main - print the value in the put function
- * 
- * decription: using the main function
+ *
+ * Decription: using the main function
  * this program prints with proper grammar, but the outcome is a piece of art
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
